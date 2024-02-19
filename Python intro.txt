@@ -1,0 +1,21 @@
+* Python:- Python is general purpose popular programming language,it is a high level , interpreted,dynamically typed programming language. 
+          It is used to develop software and wed applications.
+* High level programming:- High-level programming languages, like Python, provide abstractions that are closer to human languages and concepts, 
+                            making them easier to understand and use.
+* interpreted:- It reads and interprets the source code line by line, executing the instructions without the need for compilation into machine code. 
+                  Python uses an interactive interpreter, allowing users to enter and execute commands directly in an interactive shell or run entire scripts.
+* Dynamically typed:-  In a dynamically typed programming language like Python, variable types are determined at runtime, not during compilation.
+* Variable:- Variable can be defined as a name of memory storage location.
+              Python does not required the variable to be declared.Python internally handles the variable according to them.
+* Data type:- Python support the dynamic datatypes i.e at the time of execution of program datatype of variable will be decided based on the data which is assigned to that variable.
+              Datatypes:-
+                1.numeric
+		2.string
+                3.list
+* Type conversion:- Type conversion in Python refers to the process of changing the data type of a variable from one type to another. Python provides built-in functions to perform type conversion.
+                    There are two types of Type Conversion in Python:
+                    1.Implicit Type Conversion
+                    2.Explicit Type Conversion
+ implicit type conversion :-python interpreter automatically assigns a data type to a variable once it is declared.
+ explict type conversion :- process of manually converting a value from one data type to another using built-in functions.
+                            ex: int(), float(), or str().
